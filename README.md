@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://https://mister-stan.github.io/team-profile-generator/">
+  <a href="https://mister-stan.github.io/team-profile-generator/">
     <img src="./images/main.png" alt="Logo">
   </a>
 
